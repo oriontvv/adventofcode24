@@ -1,4 +1,4 @@
-# adventofcode23
+# adventofcode24
 Solutions for https://adventofcode.com/2024
 
 <img src="./christmas_ferris.png" width="164">
