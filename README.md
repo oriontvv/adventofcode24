@@ -1,2 +1,12 @@
-# adventofcode24
-Solutions for adventofcode24
+# adventofcode23
+Solutions for https://adventofcode.com/2024
+
+<img src="./christmas_ferris.png" width="164">
+
+<!--- advent_readme_stars table --->
+## 2024 Results
+
+| Day | Part 1 | Part 2 |
+| :---: | :---: | :---: |
+| [Day 1](https://adventofcode.com/2024/day/1) |  |  |
+<!--- advent_readme_stars table --->
